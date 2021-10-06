@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/54456351/120840726-730fb780-c51f-11eb-843b-d8894afa67a0.png)
 5. Work on the .java file and until you complete
 -->
-This is your first assignment in GitHub Classroom.
+This is your second assignment in GitHub Classroom.
 
 If you have not already, create a directory where you will store all your files for this course. Make sure your directory name or your file names don't have any spaces in them as 'spaces' can interfere with some command-line programs.
 
