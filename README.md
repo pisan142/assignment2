@@ -65,10 +65,10 @@ The red circle means the workflow is failed. You can see your details in the rep
 The green circle means the workflow is passed, but you should check the reports to check your code style is good enough and any misspell occurs.<br>
 ![image](https://user-images.githubusercontent.com/54456351/119813818-95119600-be9e-11eb-82e5-d247541062cb.png) <br><br>
 
+![image](https://user-images.githubusercontent.com/54456351/136268022-8427b524-61de-4686-bff8-a5a39e74b794.png)
 ## CheckStyle
 Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
-![image](https://user-images.githubusercontent.com/54456351/129306692-6959b6b7-308c-452e-aa44-64fd21ee95de.png) <br>
-If you have any compilation errors, CheckStyle report will not be generated. Please view the JUnit Report and debug all errors first.
+If you have any compilation errors, CheckStyle report will not be generated. Please view the build.txt file and debug all errors first.
 
 ### For more detatils on the CheckStyle warning, you can view this website:  <a href="https://pisana.github.io/checkstyle-webpage/">checkstyle-webpage</a>
 ### If you don't see your warnings on the website, please fill this survey so that we can add them: <a href="https://docs.google.com/forms/d/e/1FAIpQLSf1M4lW8zU0gfX2b0JHl3O0-vluhYhtCcvS2Ox0z3LDCwWEHg/viewform">New CheckStyle Warning</a> 
@@ -76,14 +76,14 @@ If you have any compilation errors, CheckStyle report will not be generated. Ple
 <br><br>
 ## Misspell
 Click "misspell" to view found mispellings.
-![image](https://user-images.githubusercontent.com/54456351/129307048-27f9297e-b80c-4e16-b430-9923917aa2a3.png)
 
 ## JUnit Report
 Scroll to the bottom and download the artifact to view your detailed test report. <br>
 Click "Compile-Run-Report" to download the report. 
-It is a zipped folder that will contain a test report and/or a build message file.  
+It is a zipped folder that will contain a test report and/or a build message file. 
+- report.txt: show your scores after running test cases
+- built.txt: show errors (only view when there are no results/scores in the report.txt)
 
-![image](https://user-images.githubusercontent.com/54456351/129307490-b6f27859-9ea2-4b68-8712-9b211b827322.png) <br>
 
 You will get the following information in report.txt:
 1. Compilation status to check for compilation errors
