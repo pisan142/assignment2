@@ -66,6 +66,8 @@ The red circle means the workflow is failed. You can see your details in the rep
 ![image](https://user-images.githubusercontent.com/54456351/136268974-48852cb7-84c7-4679-88c5-068f1b90de7c.png)
 The green circle means the workflow is passed, but you should check the reports to check your code style is good enough and any misspell occurs.<br>
 
+<br><br>
+
 ![image](https://user-images.githubusercontent.com/54456351/136268022-8427b524-61de-4686-bff8-a5a39e74b794.png)
 ## CheckStyle
 Click on the left sidebar on "checkstyle" to view the Checkstyle report. <br>
@@ -82,7 +84,7 @@ Click "misspell" to view found mispellings.
 Scroll to the bottom and download the artifact to view your detailed test report. <br>
 Click "Compile-Run-Report" to download the report. 
 It is a zipped folder that will contain a test report and/or a build message file. 
-- report.txt: show your scores after running test cases
+- report.txt: show your scores after running test cases. Getting a 100% score here doesn't guarantee a full score on the assignment. You still need to make sure there are no CheckStyle warnings/annotations.
 - built.txt: show errors (only view when there are no results/scores in the report.txt)
 
 
