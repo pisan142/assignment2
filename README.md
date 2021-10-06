@@ -59,13 +59,12 @@ Click on the one that you want to see the report. <br><br>
 
 ![image](https://user-images.githubusercontent.com/54456351/136268642-c87c9b7c-76e1-4fb3-84ff-3a073e27cf7c.png) The yellow circle means the workflow is in progress, and you have to wait until it changes the status.
 <br>
-![image](https://user-images.githubusercontent.com/54456351/119813577-51b72780-be9e-11eb-8449-c84e2850f125.png) <br><br>
 
+![image](https://user-images.githubusercontent.com/54456351/136268910-c8ed1a9d-2db4-4de5-a9aa-1c6cacdd7b24.png)
 The red circle means the workflow is failed. You can see your details in the reports inside it.<br>
-![image](https://user-images.githubusercontent.com/54456351/119813655-65628e00-be9e-11eb-8c27-8b42a9e71304.png) <br><br>
 
+![image](https://user-images.githubusercontent.com/54456351/136268974-48852cb7-84c7-4679-88c5-068f1b90de7c.png)
 The green circle means the workflow is passed, but you should check the reports to check your code style is good enough and any misspell occurs.<br>
-![image](https://user-images.githubusercontent.com/54456351/119813818-95119600-be9e-11eb-82e5-d247541062cb.png) <br><br>
 
 ![image](https://user-images.githubusercontent.com/54456351/136268022-8427b524-61de-4686-bff8-a5a39e74b794.png)
 ## CheckStyle
