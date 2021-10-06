@@ -56,7 +56,8 @@ This is the action page: <br>
 ![image](https://user-images.githubusercontent.com/54456351/119814197-fc2f4a80-be9e-11eb-86ad-00f6c5b5d238.png) <br>
 The workflow are your commissions from newest to latest. <br>
 Click on the one that you want to see the report. <br><br>
-The yellow circle means the workflow is in progress, and you have to wait until it changes the status.<br>
+The yellow circle means the workflow is in progress, and you have to wait until it changes the status.![image](https://user-images.githubusercontent.com/54456351/136268642-c87c9b7c-76e1-4fb3-84ff-3a073e27cf7c.png)
+<br>
 ![image](https://user-images.githubusercontent.com/54456351/119813577-51b72780-be9e-11eb-8449-c84e2850f125.png) <br><br>
 
 The red circle means the workflow is failed. You can see your details in the reports inside it.<br>
