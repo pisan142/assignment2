@@ -21,7 +21,7 @@ If you have not already, create a directory where you will store all your files 
     - (Windows sample directory) C:\Users\pisan\2021AU\142\assignment2
     - (Mac Sample directory) /Users/pisan/2021AU/142/assignment2
 
-1. Click on "Main.java" to see what is provided as your starter code
+1. Click on "CoffeeOrder.java" to see what is provided as your starter code
 2. Copy the template into your Main.java file in your Java IDE (Repl.It, BlueJ, Eclipse, IntelliJ, jGRASP, etc.) and make your desired edits
     - The name of the Class you are creating **must be** CoffeeOrder
     - The name of the file you create **must be** CoffeeOrder.java
